@@ -1,12 +1,11 @@
 # NLW Project
 
-![preview](./.github/preview.png)
 
 > Trilha Explorer
 
 Projeto construído após o evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://vin1ziux.github.io/Link-aggregator)
+[🔗 Clique aqui para acessar](https://vin1ziux.github.io/Movie-list/)
 
 🛠 Tecnologias
 HTML
